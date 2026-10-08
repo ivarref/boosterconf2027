@@ -4,12 +4,12 @@
 
 Clone this repo.
 
-### OS X (ARM CPU)
+### macOS (ARM CPU)
 
-If you are using OS X and an ARM based CPU, here is a full setup that launches
+If you are using macOS and an ARM based CPU, here is a full setup that launches
 a VM (debian/trixie 20260112-2355) and installs the required packages: https://github.com/ivarref/vibe/
 
-### Linux / Windows (AMD64 CPU)
+### AMD64 CPUs (Linux, Windows, macOS)
 
 The workshop recommends using debian/trixie 20260112-2355 as the base Linux VM.
 Download, verify and extract and verify it:
